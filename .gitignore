@@ -1,0 +1,15 @@
+# raect
+
+node_modules/
+
+
+build/
+
+.env
+
+# django
+
+venv/
+
+
+db.sqlite3
